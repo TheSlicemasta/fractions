@@ -1,4 +1,5 @@
 # tz-form
+Form for calculate fractions
 
 ## Project setup
 ```
